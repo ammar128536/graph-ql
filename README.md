@@ -1,36 +1,67 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+content = """# 🛍️ Best Fir Store - Full Stack Application
 
-First, run the development server:
+A complete **Full-Stack eCommerce & SaaS platform** built using modern technologies including **Next.js, React (Vite), Node.js, Express, MongoDB, GraphQL, REST APIs, Stripe, and Cloudinary**.
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+- Next.js (Main Application)
+- React (Vite for additional frontend modules)
+- Tailwind CSS / CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### APIs
+- GraphQL (Apollo Server)
+- RESTful APIs
+
+### Database
+- MongoDB (Mongoose)
+
+### Integrations
+- Stripe (Payments & Subscriptions)
+- Cloudinary (Image Storage)
+
+---
+
+## 📦 Features
+
+- 🛒 Product Management (CRUD)
+- 🖼️ Image Upload via Cloudinary
+- 🔐 Authentication (Login/Register)
+- 💳 Stripe Payment Integration (Subscriptions + Checkout)
+- 🔄 Upgrade/Downgrade Plans
+- 📡 GraphQL API (Apollo Server)
+- 🌐 REST API Support
+- 📱 Fully Responsive UI
+
+---
+
+## 📁 Project Structure
+
+Best-Fir/
+│
+├── frontend/        # React (Vite)
+├── next-app/        # Next.js app
+├── backend/         # Express server
+│   ├── models/
+│   ├── routes/
+│   ├── controllers/
+│   ├── config/
+│
+└── README.md
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone Repository
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+git clone https://github.com/your-username/best-fir.git
+cd best-fit
