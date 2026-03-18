@@ -63,5 +63,3 @@ Best-Fir/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/best-fir.git
-cd best-fit
