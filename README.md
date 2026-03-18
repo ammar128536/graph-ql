@@ -55,11 +55,3 @@ Best-Fir/
 │   ├── config/
 │
 └── README.md
-
----
-
-## ⚙️ Installation & Setup
-
-### 1️⃣ Clone Repository
-
-```bash
